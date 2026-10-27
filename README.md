@@ -40,9 +40,9 @@ I also checked for duplicate shop-product-date records and visible formula error
 
 ## Key Findings
 
-- **Shop revenue:** Hedge End, R1 Hedge End TP, Tollbar had the highest estimated revenue, at **£76,038.00**.
-- **Product revenue:** Sausage rolls generated the highest estimated product revenue, at **£73,932.75** across all shops.
-- **Stale products:** Southampton, Adanac Pk Drive Thru recorded the highest total of stale products, at **1,166 units**.
+- **Shop revenue:** Hedge End, R1 Hedge End TP, Tollbar had the highest estimated revenue, at £76,038.00.
+- **Product revenue:** Sausage rolls generated the highest estimated product revenue, at £73,932.75 across all shops.
+- **Stale products:** Southampton, Adanac Pk Drive Thru recorded the highest total of stale products, at 1,166 units.
 
 These figures cover September 2026 and reflect the synthetic dataset.
 

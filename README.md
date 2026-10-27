@@ -30,13 +30,13 @@ I used Excel to prepare and analyse the data:
 
 ## Challenges and Data Checks
 
-**Missing product price:** When I used VLOOKUP to bring prices into the daily records, one product, Pigs in Blankets, returned an `#N/A` error. I checked the separate price table and found that the product was missing. I added its product ID and an example price to the table, which allowed the formula to find a match and calculate its estimated revenue.
+**Missing product price:** When I used VLOOKUP to bring prices into the daily records, one product, Pigs in Blankets, returned an #N/A error. I checked the separate price table and found that the product was missing. I added its product ID and an example price to the table, which allowed the formula to find a match and calculate its estimated revenue.
 
 **Understanding stock differences:** I calculated the difference between the quantity available and the quantities sold, sent to outlet and recorded as stale. Initially, I thought a positive difference meant stock was missing. On review, I realised that for products such as bottled drinks and crisps, it could include items still on the shelf.
 
 The dataset does not record closing stock separately, so I did not treat these differences as confirmed losses.
 
-I also checked for duplicate shop–product–date records and visible formula errors. None were found in the version reviewed.
+I also checked for duplicate shop-product-date records and visible formula errors. None were found in the version reviewed.
 
 ## Key Findings
 

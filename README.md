@@ -6,7 +6,7 @@ This project was inspired by my experience working at Greggs. I analysed a synth
 
 The dataset contains 18,060 daily records covering 43 products. It includes a selection of products from different categories rather than the full Greggs range.
 
-**The figures were created for this project and do not represent actual Greggs sales, stock or shop performance.**
+"The figures were created for this project and do not represent actual Greggs sales, stock or shop performance."
 
 ## Questions
 
